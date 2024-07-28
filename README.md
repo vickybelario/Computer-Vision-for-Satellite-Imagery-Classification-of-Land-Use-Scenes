@@ -27,7 +27,7 @@ Deployment proyek model pada website huggingface : [Link](https://huggingface.co
 
 ## Kesimpulan
 
-### Model CNN Trainingbr>
+### Model CNN Training<br>
 
 Precision, Recall, F1-Score, Accuracy:
 Hasil precision, recall, dan f1-score dari model CNN training menunjukkan bahwa model ini gagal memprediksi hampir semua kelas dengan benar. Hanya kelas 'airplane' yang dapat diprediksi dengan tepat.
@@ -41,7 +41,7 @@ Tidak ada kelebihan yang signifikan dari model ini.
 Room for Improvement:
 - Mengoptimalkan hyperparameter seperti learning rate, scheduler, callback.
 
-### Model CNN Improvebr>
+### Model CNN Improve<br>
 
 Precision, Recall, F1-Score, Accuracy:
 Model CNN improve juga menunjukkan hasil yang buruk, hanya mampu memprediksi kelas 'tenniscourt' dengan benar.
@@ -57,7 +57,7 @@ Kelebihan:<br>
 Room for Improvement:
 - Menambahkan lebih banyak lapisan atau mencoba arsitektur yang lebih kompleks.
 
-### Model Transfer Learningbr>
+### Model Transfer Learning<br>
 
 Precision, Recall, F1-Score, Accuracy:
 Hasil precision, recall, dan f1-score menunjukkan performa yang sangat baik dengan akurasi mencapai 97%.
