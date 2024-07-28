@@ -16,6 +16,7 @@ Tujuan dari proyek ini adalah memanfaatkan Computer Vision untuk mengembangkan m
 
 ### **Dataset Overview**
 Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification/data)
+
 Dataset ini berisi citra satelit dari 21 kelas seperti bangunan, lapangan bisbol, jalan tol, dll. Dataset citra penggunaan lahan ini dimaksudkan untuk keperluan penelitian. Ukuran asli dari gambar-gambar ini adalah 256x256 piksel. Awalnya ada 100 gambar per kelas. Setelah melakukan augmentasi pada setiap gambar sebanyak 4 kali, ukuran setiap kelas meningkat menjadi 500 gambar. Ini memungkinkan untuk membuat model yang lebih kuat.
 
 Gambar-gambar ini secara manual diekstraksi dari gambar besar koleksi USGS National Map Urban Area Imagery untuk berbagai area perkotaan di seluruh negeri. Resolusi piksel dari citra domain publik ini adalah 1 foot.
