@@ -1,20 +1,20 @@
 # Land-Use-Scene-Classification-using-Computer-Vision
 
-# Introduction
+## Introduction
 
 Nama  : Vicky Belario
   
 Project ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Convolutional Neural Network dengan model Computer Vision pada dataset Land use scene
 
-### **Background**
+## Background
 
 Land use scene classification adalah tugas penting dalam bidang penginderaan jauh dan geographic information systems (GIS). Dengan perkembangan pesat daerah perkotaan meningkatkan manajemen lahan yang efisien dari gambar satelit menjadi sangat penting. Metode tradisional dalam klasifikasi penggunaan lahan sering melibatkan interpretasi manual, yang memakan waktu dan rentan terhadap kesalahan manusia. Namun, kemajuan dalam deep learning, khususnya Convolutional Neural Networks (CNN), telah menunjukkan kemajuan signifikan dalam mengotomatisasi dan meningkatkan akurasi tugas ini.
 
-### **Goal**
+## Goal
 
 Tujuan dari proyek ini adalah memanfaatkan Computer Vision untuk mengembangkan model dalam klasifikasi scene penggunaan lahan. Dengan demikian, sehingga berkontribusi pada praktik perencanaan perkotaan yang lebih baik dan manajemen lahan yang lebih efektif. implementasi proyek ini dapat membuka jalan bagi inovasi lebih lanjut dalam bidang remote sensing dan environmental monitoring.
 
-### **Dataset Overview**
+## Dataset Overview
 Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification/data)
 
 Dataset ini berisi citra satelit dari 21 kelas seperti bangunan, lapangan bisbol, jalan tol, dll. Dataset citra penggunaan lahan ini dimaksudkan untuk keperluan penelitian. Ukuran asli dari gambar-gambar ini adalah 256x256 piksel. Awalnya ada 100 gambar per kelas. Setelah melakukan augmentasi pada setiap gambar sebanyak 4 kali, ukuran setiap kelas meningkat menjadi 500 gambar. Ini memungkinkan untuk membuat model yang lebih kuat.
@@ -27,7 +27,7 @@ Deployment proyek model pada website huggingface : [Link](https://huggingface.co
 
 ## Kesimpulan
 
-**Model CNN Training**<br>
+### Model CNN Trainingbr>
 
 Precision, Recall, F1-Score, Accuracy:
 Hasil precision, recall, dan f1-score dari model CNN training menunjukkan bahwa model ini gagal memprediksi hampir semua kelas dengan benar. Hanya kelas 'airplane' yang dapat diprediksi dengan tepat.
@@ -41,7 +41,7 @@ Tidak ada kelebihan yang signifikan dari model ini.
 Room for Improvement:
 - Mengoptimalkan hyperparameter seperti learning rate, scheduler, callback.
 
-**Model CNN Improve**<br>
+### Model CNN Improvebr>
 
 Precision, Recall, F1-Score, Accuracy:
 Model CNN improve juga menunjukkan hasil yang buruk, hanya mampu memprediksi kelas 'tenniscourt' dengan benar.
@@ -57,7 +57,7 @@ Kelebihan:<br>
 Room for Improvement:
 - Menambahkan lebih banyak lapisan atau mencoba arsitektur yang lebih kompleks.
 
-**Model Transfer Learning**<br>
+### Model Transfer Learningbr>
 
 Precision, Recall, F1-Score, Accuracy:
 Hasil precision, recall, dan f1-score menunjukkan performa yang sangat baik dengan akurasi mencapai 97%.
@@ -73,6 +73,6 @@ Kelebihan:
 Room for Improvement:<br>
 Menggunakan lebih banyak data latih atau data augmentation untuk meningkatkan generalisasi.
 
-## kesimpulan keseluruhan
+### kesimpulan keseluruhan
 - Model CNN Training dan Model CNN Improve menunjukkan performa yang kurang memuaskan, dengan akurasi dan kemampuan prediksi yang sangat rendah.
 - Model Transfer Learning menunjukkan hasil yang sangat baik, dengan akurasi yang tinggi dan kemampuan prediksi yang solid di semua kelas.
