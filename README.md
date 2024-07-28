@@ -15,14 +15,14 @@ Land use scene classification adalah tugas penting dalam bidang penginderaan jau
 Tujuan dari proyek ini adalah memanfaatkan Computer Vision untuk mengembangkan model dalam klasifikasi scene penggunaan lahan. Dengan demikian, sehingga berkontribusi pada praktik perencanaan perkotaan yang lebih baik dan manajemen lahan yang lebih efektif. implementasi proyek ini dapat membuka jalan bagi inovasi lebih lanjut dalam bidang remote sensing dan environmental monitoring.
 
 ### **Dataset Overview**
-pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification/data)
+Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification/data)
 Dataset ini berisi citra satelit dari 21 kelas seperti bangunan, lapangan bisbol, jalan tol, dll. Dataset citra penggunaan lahan ini dimaksudkan untuk keperluan penelitian. Ukuran asli dari gambar-gambar ini adalah 256x256 piksel. Awalnya ada 100 gambar per kelas. Setelah melakukan augmentasi pada setiap gambar sebanyak 4 kali, ukuran setiap kelas meningkat menjadi 500 gambar. Ini memungkinkan untuk membuat model yang lebih kuat.
 
 Gambar-gambar ini secara manual diekstraksi dari gambar besar koleksi USGS National Map Urban Area Imagery untuk berbagai area perkotaan di seluruh negeri. Resolusi piksel dari citra domain publik ini adalah 1 foot.
 
-transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
+Transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
 
-deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Graded_Challenge_7)
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Graded_Challenge_7)
 
 ## Kesimpulan
 
