@@ -39,7 +39,7 @@ Kelebihan:<br>
 Tidak ada kelebihan yang signifikan dari model ini.
 
 Room for Improvement:
-- Mengoptimalkan hyperparameter seperti learning rate, scheduler, callback.
+Mengoptimalkan hyperparameter seperti learning rate, scheduler, callback.
 
 ### Model CNN Improve<br>
 
@@ -55,7 +55,7 @@ Kelebihan:<br>
 - Tidak Ada Overfitting atau Underfitting: Karena loss training dan loss validasi konsisten menurun dan hampir sama di akhir, ini menunjukkan bahwa model tidak mengalami overfitting atau underfitting.
 
 Room for Improvement:
-- Menambahkan lebih banyak lapisan atau mencoba arsitektur yang lebih kompleks.
+Menambahkan lebih banyak lapisan atau mencoba arsitektur yang lebih kompleks.
 
 ### Model Transfer Learning<br>
 
