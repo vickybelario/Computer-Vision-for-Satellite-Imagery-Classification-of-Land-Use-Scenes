@@ -1,9 +1,8 @@
 # Land-Use-Scene-Classification-using-Computer-Vision
 
 # Introduction
-- Nama  : Vicky Belario
-- Batch : 017 HCK
-
+Nama  : Vicky Belario
+  
 Project ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Convolutional Neural Network dengan model Computer Vision pada dataset Land use scene
 
 ### **Background**
