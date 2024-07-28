@@ -1,17 +1,10 @@
 # Land-Use-Scene-Classification-using-Computer-Vision
 
-# i. Introduction
+# Introduction
 - Nama  : Vicky Belario
 - Batch : 017 HCK
 
-Graded Challenge 7 ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Convolutional Neural Network dengan model Computer Vision pada dataset Land use scene
-
-### **Objective**
-- Memahami konsep Computer Vision.
-- Dapat mempersiapkan data untuk digunakan dalam model Computer Vision.
-- Bisa menerapkan Convolutional Neural Network dengan pada dataset Land use scene.
-- Sanggup melakukan analisis  dan menjelaskan performansi dari arsitektur Convolutional Neural Network.
-- Mampu melakukan Model Deployment.
+Project ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Convolutional Neural Network dengan model Computer Vision pada dataset Land use scene
 
 ### **Background**
 
