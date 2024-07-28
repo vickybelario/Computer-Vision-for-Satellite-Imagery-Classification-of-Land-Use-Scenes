@@ -21,6 +21,7 @@ Dataset ini berisi citra satelit dari 21 kelas seperti bangunan, lapangan bisbol
 Gambar-gambar ini secara manual diekstraksi dari gambar besar koleksi USGS National Map Urban Area Imagery untuk berbagai area perkotaan di seluruh negeri. Resolusi piksel dari citra domain publik ini adalah 1 foot.
 
 transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
+
 deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Graded_Challenge_7)
 
 ## Kesimpulan
