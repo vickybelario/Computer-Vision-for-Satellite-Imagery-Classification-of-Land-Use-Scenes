@@ -1,4 +1,4 @@
-# Land-Use-Scene-Classification-using-Computer-Vision
+# Land Use Scene Classification using Computer Vision
 
 ## Introduction
 
