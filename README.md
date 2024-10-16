@@ -1,4 +1,4 @@
-# Land Use Scene Classification using Computer Vision
+# Computer Vision for Satellite Imagery Classification of Land Use Scenes
 
 ## Introduction
 
