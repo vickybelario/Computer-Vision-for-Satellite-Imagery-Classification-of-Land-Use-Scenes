@@ -1,5 +1,5 @@
 
-![SpaceX's capsule 're-flight' is a space travel milestone](https://github.com/user-attachments/assets/c233c35b-bf2e-454f-8416-08723f036846)
+![spacex-dragon-capsule-re-flight-nasa-ed](https://github.com/user-attachments/assets/dece24fe-4f58-4ffa-ac74-b657044e78ea)
 
 # Computer Vision for Satellite Imagery Classification of Land Use Scenes
 
