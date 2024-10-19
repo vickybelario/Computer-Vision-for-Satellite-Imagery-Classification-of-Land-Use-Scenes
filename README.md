@@ -26,7 +26,7 @@ Gambar-gambar ini secara manual diekstraksi dari gambar besar koleksi USGS Natio
 
 Transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
 
-Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Graded_Challenge_7)
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Computer-Vision-for-Satellite-Imagery-Classification-of-Land-Use-Scene)
 
 ## Kesimpulan
 
