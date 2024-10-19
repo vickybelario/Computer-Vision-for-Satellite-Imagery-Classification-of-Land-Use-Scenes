@@ -9,6 +9,9 @@ Nama  : Vicky Belario
   
 Project ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Convolutional Neural Network dengan model Computer Vision pada dataset Land use scene
 
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Computer-Vision-for-Satellite-Imagery-Classification-of-Land-Use-Scene)
+Transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
+
 ## Background
 
 Land use scene classification adalah tugas penting dalam bidang penginderaan jauh dan geographic information systems (GIS). Dengan perkembangan pesat daerah perkotaan meningkatkan manajemen lahan yang efisien dari gambar satelit menjadi sangat penting. Metode tradisional dalam klasifikasi penggunaan lahan sering melibatkan interpretasi manual, yang memakan waktu dan rentan terhadap kesalahan manusia. Namun, kemajuan dalam deep learning, khususnya Convolutional Neural Networks (CNN), telah menunjukkan kemajuan signifikan dalam mengotomatisasi dan meningkatkan akurasi tugas ini.
@@ -23,10 +26,6 @@ Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets
 Dataset ini berisi citra satelit dari 21 kelas seperti bangunan, lapangan bisbol, jalan tol, dll. Dataset citra penggunaan lahan ini dimaksudkan untuk keperluan penelitian. Ukuran asli dari gambar-gambar ini adalah 256x256 piksel. Awalnya ada 100 gambar per kelas. Setelah melakukan augmentasi pada setiap gambar sebanyak 4 kali, ukuran setiap kelas meningkat menjadi 500 gambar. Ini memungkinkan untuk membuat model yang lebih kuat.
 
 Gambar-gambar ini secara manual diekstraksi dari gambar besar koleksi USGS National Map Urban Area Imagery untuk berbagai area perkotaan di seluruh negeri. Resolusi piksel dari citra domain publik ini adalah 1 foot.
-
-Transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
-
-Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Computer-Vision-for-Satellite-Imagery-Classification-of-Land-Use-Scene)
 
 ## Kesimpulan
 
