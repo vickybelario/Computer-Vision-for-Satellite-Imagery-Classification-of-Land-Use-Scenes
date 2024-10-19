@@ -11,7 +11,7 @@ Project ini dilakukan untuk mengimplementasikan konsep Deep Learning terutama Co
 
 Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Computer-Vision-for-Satellite-Imagery-Classification-of-Land-Use-Scene)
 
-Transfer learning pada website keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
+Transfer learning diambil dari website Keras berikut : [Link](https://keras.io/api/applications/densenet/#densenet201-function)
 
 ## Background
 
